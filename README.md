@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apostrophe Sandbox
 
 Apostrophe Sandbox aims to be a complete starting point for developing content-managed websites with [Apostrophe](http://github.com/punkave/apostrophe).
@@ -167,3 +168,7 @@ You should join the [apostrophenow Google Group](https://groups.google.com/forum
 
 [P'unk Avenue](http://punkave.com)
 
+=======
+hydrafoundation
+===============
+>>>>>>> 6a2582cd73766a66da0cf0d072cb9f622ca1cd7c
